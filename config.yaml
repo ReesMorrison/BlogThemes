@@ -1,6 +1,6 @@
 baseurl: https://example.com
-title: Hugo Tanka Theme Demo
-author: Nan Xiao
+title: 'Themes from Art: Poems, Paintings, Pop and Pictures'
+author: 'Rees Morrison'
 canonifyurls: yes
 languagecode: en
 theme: hugo-tanka
@@ -20,7 +20,6 @@ params:
   highlightjslanguages:
     - r
     - python
-    - stan
   progressively: no
   sitename: Hugo Tanka Theme
   uselatex: yes
@@ -30,17 +29,17 @@ markup:
       unsafe: yes
 menu:
   primary:
-    - name: Home
-      url: /
+    - name: Posts
+      url: /posts/
       weight: 1
     - name: About
       url: /about/
       weight: 2
     - name: GitHub
-      url: https://github.com/nanxstats
+      url: https://github.com/ReesMorrison/BlogThemes
       weight: 3
     - name: Twitter
-      url: https://twitter.com/nanxstats
+      url: https://twitter.com/@ReesMorrison
       weight: 4
     - name: Subscribe
       url: /index.xml
