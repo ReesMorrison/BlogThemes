@@ -21,7 +21,7 @@ params:
     - r
     - python
   progressively: no
-  sitename: Hugo Tanka Theme
+  sitename: Themes from Art
   uselatex: yes
 markup:
   goldmark:
@@ -44,3 +44,8 @@ menu:
     - name: Subscribe
       url: /index.xml
       weight: 5
+
+taxonomies:
+    category: categories
+    
+disqusShortname: reesartblog
