@@ -1,9 +1,9 @@
 ---
-title: Alcohol Woolf Nichols
-author: ''
+title: Alcohol "Who's Afraid of Virgina Woolf?" Movied directed by Mike Nichols
+author: 'Rees Morrison'
 date: '2021-02-03'
 slug: []
-categories: []
+categories: [Movie]
 tags:
   - alcohol
   - drinking
@@ -15,7 +15,7 @@ meta_img: images/image.png
 description: Description for the page
 ---
 
-At the start of this scene from Edward Albee’s play, a wife (Martha, Elizabeth Taylor) verbally attacks her husband (George, Richard Burton), who plays an Associate Professor of History at the college led by Martha’s father. With two shocked guests presents, she paces as she swirls a cocktail glass with ice and a half drink in it.  She has been drinking steadily.  If you would like to watch the 1:41 scene as it was directed by Mike Nichols, here it is on YouTube. YouTubehttps://www.youtube.com/watch?v=nInE5TITzE8 .  The dialogue below comes from script-o-rama. http://www.script-o-rama.com/movie_scripts/w/whos-afraid-of-virginia-woolf-script.html
+At the start of this scene from Edward Albee’s play, a wife (Martha, Elizabeth Taylor) verbally attacks her husband (George, Richard Burton), who plays an Associate Professor of History at the college led by Martha’s father. With two shocked guests presents, she paces as she swirls a cocktail glass with ice and a half drink in it.  She has been drinking steadily.  If you would like to watch the 1:41 scene as it was directed by Mike Nichols, here it is on YouTube. [I'm an inline-style link with title](https://www.youtube.com/watch?v=nInE5TITzE8 "Scene on YouTube").  The dialogue below comes from script-o-rama.  [I'm an inline-style link](http://www.script-o-rama.com/movie_scripts/w/whos-afraid-of-virginia-woolf-script.html) 
 
 Martha: I actually fell for him.  It! That! There!
 
@@ -57,11 +57,11 @@ Martha: I hope that was an empty bottle.  You can't afford to waste good liquor.
 
 Martha’s scorning tirade against her husband holds nothing back; the liquor in her has unloosed her raging anger and biting attacks.  She will say anything, including the most hurtful charges against his capabilities (*A great big, fat flop!*) and indeed his manhood (*Georgie-boy*). Her diminished or non-existent inhibition characterizes many people who drink more alcohol than they can handle.  They can say or do things that when sober they wouldn’t contemplate.
 
-Some heavy drinkers become quiet, some strident; men and women may react differently.  But in the scene from the movie, Martha pours out the vitriol she has marinaded in on her husband seemingly totally unconcerned about the pain she is causing him and also oblivious to the shock and deep discomfort of their two guests (played by George Peppard and Sandy Dennis).   She twice mocks her husband: “Getting angry?”   And he, who has also been drinking throughout the evening, grows angry.  Both are coming apart with the alcohol coursing through them.
+Some heavy drinkers become quiet [I'm an inline-style link with title](https://themesfromart.com/blog/2021-02-03-alcohol-absinthe-degas/ "Absinthe, by Degas"), some strident; men and women may react differently.  But in the scene from the movie, Martha pours out the vitriol she has marinaded in on her husband seemingly totally unconcerned about the pain she is causing him and also oblivious to the shock and deep discomfort of their two guests (played by George Peppard and Sandy Dennis).   She twice mocks her husband: “Getting angry?”   And he, who has also been drinking throughout the evening, grows angry.  Both are coming apart with the alcohol coursing through them.
 
-Aside from stripping away self-control, alcohol sometimes pumps up combativeness.  Aggressiveness and belligerence mark a common reaction of people who are “three sheets to the wind” [Note 1].  In this scene from “Who’s Afraid of Virginia Woolf” the wife is spoiling for a fight, bullying and poking at her husband verbally – daring him to rise up. Alcohol, exacerbating a long marriage encrusted by dislike and disrespect, fuels her clobbering him with sarcasm and viciousness.
+Aside from stripping away self-control [I'm an inline link] (https://themesfromart.com/blog/2021-02-01-alcohol-margaritaville-buffet/ "Margaritaville by Buffet"), alcohol sometimes pumps up combativeness.  Aggressiveness and belligerence mark a common reaction of people who are “three sheets to the wind” [Note 1].  In this scene from “Who’s Afraid of Virginia Woolf” the wife is spoiling for a fight, bullying and poking at her husband verbally – daring him to rise up. Alcohol, exacerbating a long marriage encrusted by dislike and disrespect, fuels her clobbering him with sarcasm and viciousness.
 
-At the end of this short scene, George boils over (*I said stop it!*) and smashes his hand down on something that was holding a bottle of alcohol.  The bottle shatters on the floor and Martha reacts with another tirade against her husband’s failure to be promoted to full professor.  She *hope[s] that was an empty bottle.  You can't afford to waste good liquor.  Not on your salary!  Not on an associate professor's salary!*  Quality alcohol costs money.
+At the end of this short scene, George boils over (*I said stop it!*) and smashes his hand down on something that was holding a bottle of alcohol.  The bottle shatters on the floor and Martha reacts with another tirade against her husband’s failure to be promoted to full professor.  She *hope[s] that was an empty bottle.  You can't afford to waste good liquor.  Not on your salary!  Not on an associate professor's salary!*  Quality alcohol costs money. [I'm an inline-style link with title](https://themesfromart.com/blog/2021-01-24-alcohol-flood-frost/alcoholfloodindex/ "Mr. Flood's Party,"" by Robinson") 
 
 Another aspect of alcohol consumption appears in the scene. It can be difficult or impossible to reason with someone who is deeply under the influence. Rationality doesn’t work with the drunk. Here the two spouses have clearly been at each other’s throats for a while, and neither can recover or restore some semblance of a truce, but the night of binging makes it impossible.
 
