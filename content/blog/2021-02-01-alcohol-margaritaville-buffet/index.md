@@ -1,16 +1,16 @@
 ---
-title: Alcohol Margaritaville Buffet
+title: Alcohol 'Margaritaville' by Jimmy Buffet
 author: Morrison
 date: '2021-02-01'
 slug: []
-categories: []
+categories: [Rock & Roll]
 tags:
   - alcohol
   - drinking
   - Jimmy Buffet 
   - margaritas
 meta_img: images/image.png
-description: Description for the page
+description: Drinking alcohol -- margaritas -- in a Mexican resort, with a disconsolate beachcomber figuring out his life
 ---
 
 “Margaritaville” (Jimmy Buffet)
