@@ -1,5 +1,5 @@
 ---
-title: Alcohol Absinthe Degas
+title: Alcohol Absinthe by Edgar Degas
 author: Morrison
 date: '2021-02-03'
 slug: []
@@ -16,10 +16,10 @@ tags:
   - impressionism
   - impressionist
 meta_img: images/image.png
-description: Description for the page
+description: How an impressionist painting, Absinthe by Edgar Degas suggests ideas about drinking alcoholic beverages
 ---
 
-At the focus spot of a well-known painting by Edgar Degas “The absinthe” [“L’Absinthe”] sits a full glass of absinthe.  According to one summary, https://www.ngv.vic.gov.au/work-of-the-week-edgar-degas-in-a-cafe-the-absinthe-drinker-dans-un-cafe-labsinthe/ “Absinthe (also known as La Fée Verte or ‘the green fairy’) was a green colored, highly alcoholic spirit. Poured over ice and served with water and a cube of sugar to soften the bitter taste, it was [thought to be] highly addictive and known to cause hallucinations.”  In this early morning scene from a mid-19th century Parisian café [Note 1], the woman and her companion, despite their youthfulness in their lower 30’s, exude fatigue, emptiness and depression. 
+At the focus spot of a well-known painting by Edgar Degas “The absinthe” [“L’Absinthe”] sits a full glass of absinthe.  According to one summary [I'm an inline-style link with title](https://www.ngv.vic.gov.au/work-of-the-week-edgar-degas-in-a-cafe-the-absinthe-drinker-dans-un-cafe-labsinthe/ "Comments on the painting, Absinthe"),  “Absinthe (also known as La Fée Verte or ‘the green fairy’) was a green colored, highly alcoholic spirit. Poured over ice and served with water and a cube of sugar to soften the bitter taste, it was [thought to be] highly addictive and known to cause hallucinations.”  In this early morning scene from a mid-19th century Parisian café [Note 1], the woman and her companion, despite their youthfulness in their lower 30’s, exude fatigue, emptiness and depression. 
 
 “Its growing popularity and its negative social effects led to absinthe being banned in much of Europe and America.”  More broadly, alcohol for consumption swirls in a cloud of legal restrictions.  You must be of majority age to drink, certain kinds of alcohol are illegal, driving under the influence carries heavy penalties, sales are regulated and highly taxed.   At the extreme, the Eighteenth Amendment of the United States Constitution prohibited alcohol in the United States starting January 16, 1919.   Much of the animus against drinking alcohol arises from moralistic prudery, but also awareness of drunken misbehavior.  
 
@@ -27,13 +27,13 @@ The woman stares down into space with heavy eyes, her shoulders drooped and the 
 
 Alcohol is a central nervous system depressant, meaning that it slows down brain functioning and neural activity. Alcohol does this by enhancing the effects of the neurotransmitter GABA. Alcohol can slur speech, unsteady movement, disturb perceptions, and slow reactions. Alcohol impairs the ability to think rationally, lessens inhibitions, and distorts judgment. 
 
-Paradoxically, while partaking sometimes animates drinkers, eventually it swings to depressing them.  The picture has a soggy, subdued aura that displays the opposite of conviviality.  Neither person cares to talk, looking worse for wear after a long night.   Both appear lost in reveries or burdened by dulled senses.  Whether the pall is cast by fatigue, extensive drinking, poor health, a bitter argument between them we cannot tell.  But the effervescent light-heartedness often associated with having a glass or three finds no place in this scene.
+Paradoxically, while partaking sometimes animates drinkers, eventually it swings to depressing them. The picture has a soggy, subdued aura that displays the opposite of conviviality. Neither person cares to talk, looking worse for wear after a long night.   Both appear lost in reveries or burdened by dulled senses.  Whether the pall is cast by fatigue, extensive drinking, poor health, a bitter argument between them we cannot tell.  But the effervescent light-heartedness often associated with having a glass or three finds no place in this scene. [I'm an inline-style link with title](https://themesfromart.com/blog/2021-02-01-alcohol-margaritaville-buffet/ "Margaritaville by Jimmy Buffet")
 
 As a third sub-theme of alcohol, hangovers may plague the couple. [Note 2] To the side of her surly companion stands a glass filled with a brown drink (possibly mazagran – a cold coffee beverage thought to be a hangover cure).  She may be trying the “hair of the dog,” a phrased derived from the medieval belief that, when someone was bitten by a rabid dog, a cure could be applying the same dog's hair to the wound. [Note 3]
 
 Finally, those who ponder the painting might note a number of disconcerting features, akin to the Instability caused by excessive of drinking.  
 
-  It is early morning judging from the brightness on her blouse and the shadows on the mirror behind that tell us the sun is low, so it is probably morning.   Yet aside from a few well-known libations at brunches (Mimosas, Bloody Mary’s), most people drink in the evenings, Thus, this glimpse of two people in the cups early in the morning jars the viewer.  It subliminally connects drinking and falling out of bodily rhythm.
+  It is early morning judging from the brightness on her blouse and the shadows on the mirror behind that tell us the sun is low, so it is probably morning. Yet aside from a few well-known libations at brunches (Mimosas, Bloody Mary’s), most people drink in the evenings. [I'm an inline-style link with title](https://themesfromart.com/blog/2021-02-03-alcohol-woolf-nichols/ "'Who's Afraid of Virginia Woolf' and dinner drinking") Thus, this glimpse of two people in the cups early in the morning jars the viewer.  It subliminally connects drinking and falling out of bodily rhythm.
   
   Likewise, the composition of the picture is off kilter. The triangle of her hair, the water bottle and the absinthe is above the middle of the painting. Odd objects to the lower left leave an impression of imbalance, such as results from excessive alcohol. We see tabletops and bench backs, but they are all cropped, foreshortened, unbalanced. An unfinished dress peeks between the tables. The visual clues disorient in the way that drinking too much affects perception and balance.
 
@@ -44,7 +44,8 @@ What is their relationship? We are inclined to consider the two a couple, simply
   Why are they awake and drinking this early?
 
   How long have they been at the café?  We can’t tell whether the woman has just ordered the absinthe or whether her drinking bout has been going for some time.  
-The two people look exhausted but why don’t they go home?
+  
+  The two people look exhausted but why don’t they go home?  [I'm an inline-style link with title](https://themesfromart.com/blog/2021-01-24-alcohol-flood-frost/alcoholfloodindex/ "Mr. Flood's Party")
 
   What are the bizarre items in the front left  of the frame?
 
