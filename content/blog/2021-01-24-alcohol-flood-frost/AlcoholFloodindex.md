@@ -1,5 +1,5 @@
 ---
-title: Alcohol Flood Frost
+title: Alcohol 'Mr. Flood's Party', a poem by Edwin Arlington Robinson
 author: Rees Morrison
 date: '2021-01-24'
 slug: []
@@ -7,14 +7,14 @@ categories:
   - Poem
 tags:
   - Mr. Flood's Party
-  - Robinson
+  - Edwin Arlington Robinson
   - jug
   - alcohol
   - drinking
   - toast
   - Spoon River Anthology
 meta_img: images/image.png
-description: Subthemes of alcohol drinking in the poem
+description: Subthemes of alcohol drinking in the poem of an old, lonely man walking home and sipping
 ---
 
 Old Eben Flood, climbing alone one night  
@@ -87,17 +87,17 @@ That many friends had opened long ago.
 
 Each of the seven stanzas refers to alcohol, implicitly in the first and third, but explicitly in the other five stanzas.  The yellow outlines those references.  The poet shares with us several views of alcohol.  
 
-At the start (stanza 1, line 5), Eben Flood paused *warily*, self-conscious and a touch nervous about what he is about to do.  He is sensitive to the possibility that a town resident might spot him indulging and disapprove of him.  His small-town, late 19th century America included many advocates of temperance: they frowned at drinking alcoholic beverages, and one would suppose they frowned even more so at indulging in the Devil’s brew while alone.  Flood didn’t want the approbation of his community, but he had trudged into town for the purchase and wanted a drink, so he made sure no one else was around.  This caution hurts, given the emphasis in the poem on Flood’s loneliness:  he made sure he was alone before he sought out the balm of the bottle.
+**Social Disapproval**.  At the start (stanza 1, line 5), Eben Flood paused *warily*, self-conscious and a touch nervous about what he is about to do.  He is sensitive to the possibility that a town resident might spot him indulging and disapprove of him.  His small-town, late 19th century America included many advocates of temperance: they frowned at drinking alcoholic beverages, and one would suppose they frowned even more so at indulging in the Devil’s brew while alone.  Flood didn’t want the approbation of his community, but he had trudged into town for the purchase and wanted a drink, so he made sure no one else was around.  This caution hurts, given the emphasis in the poem on Flood’s loneliness:  he made sure he was alone before he sought out the balm of the bottle.
 
-Carrying over into the second stanza, Flood conjures up a drinking buddy (himself, it seems) who urbanely urges him to drink to the bird, a reference to a line in the “Rubaiyat of Omar Khayyam”  (life passes by, *the bird is on the wing*).   Huskily, with deep feelings stirring, Eben accepts the imagined invitation to toast.  His voice might have changed because Eben was changing characters, or more likely Masters’ carefully chosen word huskily suggests the sadness within Flood.  Either way, the traditional form of a toast made by clinking glasses and drinking alcohol finds expression in this stanza.
+**Toasting**.  Carrying over into the second stanza, Flood conjures up a drinking buddy (himself, it seems) who urbanely urges him to drink to the bird, a reference to a line in the “Rubaiyat of Omar Khayyam”  (life passes by, *the bird is on the wing*).   Huskily, with deep feelings stirring, Eben accepts the imagined invitation to toast.  His voice might have changed because Eben was changing characters, or more likely Masters’ carefully chosen word huskily suggests the sadness within Flood.  Either way, the traditional form of a toast made by clinking glasses and drinking alcohol finds expression in this stanza.
 
 The third stanza draws on metaphors of battle to represent Flood’s difficult life.  It concludes in lines 5 through 8 with allusions to toasts that others have raised to him (*Where friends of other days had honored him, A phantom salutation of the dead*).   As Proust’s famous madeleine evoked memories of times past, the taste from the jug revived Floods long-ago revelries, which faded in Floods mind’s eye.  Alcohol plays a prominent role in social gatherings, and salutations of “cheers” standout in them.
 
-Extending the “party”, Flood and his alter ego pause in the following stanza (the fourth), cherish the jug and tenderly rest it and its remaining drink on the ground.  Alcohol can be expensive and to break the bottle a waste and a shame.  Flood has spent a significant amount for him to fill his jug and he takes pains to protect it.
+**Expensive**. Extending the “party”, Flood and his alter ego pause in the following stanza (the fourth), cherish the jug and tenderly rest it and its remaining drink on the ground.  Alcohol can be expensive and to break the bottle a waste and a shame.  Flood has spent a significant amount for him to fill his jug and he takes pains to protect it.
 
 In the fifth stanza, the imaginary friend proposes another toast and Convivially returning with himself, Flood tips the jug once again to his lips.  He is enjoying his small occasion and the effects of the drink.  He relishes even a made-up companion and even more the glow and altered state that the jug’s contents provides.  One can be sure it was nothing as mild as beer, wine isn’t for jugs, so this was potent homebrew moonshine with a kick.
 
-Whatever he filled his jug with in the town below, it gladdens him.  Alcohol blankets him that chill night with several minutes of relief, of pushing away the grinding of age and poverty, and even bubbles up some flights of song Until the whole harmonious landscape rang.   The *no more, sir; that will do.* reminds the reader that often when alcohol is being served someone shows signs of over-indulging and losing the composure that is expected of them.   Others caution the drinker to pause or stop.
+**Respite and Relief**. Whatever he filled his jug with in the town below, it gladdens him.  Alcohol blankets him that chill night with several minutes of relief, of pushing away the grinding of age and poverty, and even bubbles up some flights of song Until the whole harmonious landscape rang.   The *no more, sir; that will do.* reminds the reader that often when alcohol is being served someone shows signs of over-indulging and losing the composure that is expected of them.   Others caution the drinker to pause or stop.
 
 The emotion the final stanza invokes – weary, last word, song done -- the passing away just ahead of Eben Flood darkens the poem.  Flood has reached the end of a long life, the dark at the end of his tunnel, and has scant pleasure to give him solace.  The pretense of intimate swallows alone at night with a friend he wishes he had pose for much that remains Eben as warmth, camaraderie and pleasure.  He creates a small measure of relief from a rock-hard life in the taste and effect and shared companionship of toasts and drinks.   The choice, to days gone by and old friends now lost, foreshadows the hurt of loss of friends that ends the poem.   Alcohol helps sufferers forget for a while, but the buzz dissipates and life storms back in.  
 
@@ -105,6 +105,7 @@ The emotion the final stanza invokes – weary, last word, song done -- the pass
 *And shook his head, and was again alone.*
 
 Old Eben Flood filled with regret as he considered another quaff, perhaps because too little was left – his pleasure was gone – or perhaps because the pangs of a former, happier life struck, or perhaps because he knows that that jug could be empty but hard-scrabble life would plod on.
+
 
 In this foray into the sociology, physiology, and psychology of drinking alcohol, the poem delves into the guilty pleasure that elicits concerns about being criticized by non-drinkers, the bonhomie of raising a glass to and with others, the disinhibition of song that often mixes with drink, and the pleasure while the glow lasts.  Toward the end of his lonely life, Eben Flood finds solace and escape in the jug, but reality takes over at the end.
 
