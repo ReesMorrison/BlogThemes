@@ -27,8 +27,6 @@ At the focus spot of a well-known painting by Edgar Degas, “The Absinthe” [�
 
 ![Absinthe by Edgar Degas](/media/AlcoholAbsintheDegas.jpg, width="100", height="100")
 
-![Absinthe by Edgar Degas](/media/AlcoholAbsintheDegas.jpg, width="100" height="100")
-
 ![Absinthe by Edgar Degas](/media/AlcoholAbsintheDegas.jpg){width=50%, height=20%}
 
 “Its growing popularity and its negative social effects led to absinthe being banned in much of Europe and America.”  More broadly, alcohol for consumption swirls in a cloud of legal restrictions.  You must be of majority age to drink, certain kinds of alcohol are illegal, driving under the influence carries heavy penalties, sales are regulated and highly taxed.   At the extreme, the Eighteenth Amendment of the United States Constitution prohibited alcohol in the United States starting January 16, 1919.   Much of the animus against drinking alcohol arises from moralistic prudery, but also awareness of drunken misbehavior.  
