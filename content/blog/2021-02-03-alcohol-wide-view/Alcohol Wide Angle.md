@@ -1,6 +1,6 @@
 ---
 title: Alcohol -- Wide-Angle View
-author: Morrison
+author: Rees Morrison
 date: '2021-02-03'
 slug: []
 categories:
@@ -19,7 +19,7 @@ Four posts have discussed sub-themes of the broader theme of alcohol:
 
 !["Who's Afraid of Virginia Woolf?"](https://themesfromart.com/blog/2021-02-03-alcohol-woolf-nichols/)
 !["Absinthe" by Edgar Degas](https://themesfromart.com/blog/2021-02-03-alcohol-absinthe-degas/)
-!["Margaritaville" by Jimmy Buffet] (https://themesfromart.com/blog/2021-02-01-alcohol-margaritaville-buffet/)
+!["Margaritaville" by Jimmy Buffet](https://themesfromart.com/blog/2021-02-01-alcohol-margaritaville-buffet/)
 !["Mr. Flood's Party" by Edwin Arlington Robinson](https://themesfromart.com/blog/2021-01-24-alcohol-flood-frost/alcoholfloodindex/)
 
 Having explored the sub-themes of alcohol that suggest themselves primarily in only one of the four artistic forms, several additional observations deserve mention.  We’ll start with five sub-themes shared by two or more these mini-stories, and then consider a few of other paired considerations.
