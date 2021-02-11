@@ -40,4 +40,3 @@ To this we can add the dimension of the game in its tactics and strategy. Perhap
   
 All decisions sow seeds: some sprout tiny growths but others towering trees; some sprout [romance and flowers](https://themesfromart.com/blog/2021-02-08-decisions-from-do-you-believe-in-magic-a-song-by-the-lovin-spoonful/decisionsmagicspoonful/) while others [grow poisonous thorns](https://themesfromart.com/blog/2021-02-08-decisions-sophie-s-choice-with-meryl-streep/decisionssophies/). Two pals, whiling away the hours with a friendly card game, represent even in such an unremarkable snapshot a number of important perspectives on decisions.   They, and we, move through life in a constant flurry of decisions.   Those decisions vary widely in their wide-openness, their degree of dependence on others, and their familiarity.  Even more, they vary hugely on the short or long-term significance to the decider.
 
-
