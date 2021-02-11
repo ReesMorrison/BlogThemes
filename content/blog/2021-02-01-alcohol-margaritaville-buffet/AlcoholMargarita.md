@@ -13,7 +13,7 @@ meta_img: images/image.png
 description: Drinking alcohol -- margaritas -- in a Mexican resort, with a disconsolate beachcomber figuring out his life
 ---
 
-“Margaritaville” (Jimmy Buffet)
+“Margaritaville” (written and sung by Jimmy Buffet)
 
 Nibblin' on sponge cake  
 Watchin' the sun bake  
