@@ -69,7 +69,7 @@ The decade of the ‘60s was also marred by the civil and political discord caus
 
 To those with conservative views, the array of protests alarmed them and threatened the collapse of a long-standing way of life; for those who disagreed with the status quo, who marched and chanted “For the times they are a-changin',” over-turning the confines and cruelties of the past could not happen too soon.
 
-**Economic Pressure**:  Whereas abnormal rains scoured the [French village in Sisley’s painting]([URL) and raging mobs or soldiers [wrecked a colossal statue in Shelley’s poem](URL), in this plaintive song we hear of the devastation wrought by the grinding forces of globalization. 
+**Economic Pressure**:  Whereas abnormal rains scoured the [French village in Sisley’s painting](https://themesfromart.com/blog/2021-02-18-destruction-from-flood-at-port-marly-a-painting-by-alfred-sisley/destructionflood/) and raging mobs or soldiers [wrecked a colossal statue in Shelley’s poem](https://themesfromart.com/blog/2021-02-18-destruction-ozymandias-a-poem-by-percy-bysshe-shelley/destructoz/), in this plaintive song we hear of the devastation wrought by the grinding forces of globalization. 
 
 *Foreman says "These jobs are going, boys*  
 *And they ain't coming back”* 
@@ -86,7 +86,7 @@ The destruction wrought on the song’s hometown by economic and social changes,
 
 *Words were passed, then a shotgun blast*
 
-When thousands of Marines stormed ashore into the [bullets of a heavily-defended beach](ULR), awful destruction spreads far and wide.  When one person flips out and fires a gun, the injury or death to the targe may be individual, but it is still destruction.   When one furious spouse or partner hits another, it destroys the body, the soul, the heart.  When one delusional Timothy McVeigh detonates a mighty bomb in Oklahoma City, 19 babies and scores of others died.  The word destruction implies tangible objects being lost, but the harm may be psyches traumatized or lives lost.  Anger out of control can and too often does destroy objects and people.  
+When thousands of Marines stormed ashore into the [bullets of a heavily-defended beach](https://themesfromart.com/blog/2021-02-18-destruction-saving-private-ryan-a-movie-by-steven-spielberg/destructionsaving/), awful destruction spreads far and wide.  When one person flips out and fires a gun, the injury or death to the targe may be individual, but it is still destruction. When one furious spouse or partner hits another, it destroys the body, the soul, the heart.  When one delusional Timothy McVeigh detonates a mighty bomb in Oklahoma City, 19 babies and scores of others died.  The word destruction implies tangible objects being lost, but the harm may be psyches traumatized or lives lost.  Anger out of control can and too often does destroy objects and people.  
 
 
 
