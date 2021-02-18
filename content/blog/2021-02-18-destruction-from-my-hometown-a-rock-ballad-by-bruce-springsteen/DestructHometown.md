@@ -59,8 +59,8 @@ The rock ballad “My Hometown”, composed and sung by Bruce Springsteen, captu
 
 **Social Strife**:  
 
-*In '65 tension was running high at my high school*
-*There was a lot of fights 'tween the black and white*
+*In '65 tension was running high at my high school*  
+*There was a lot of fights 'tween the black and white*  
 *There was nothing you could do*
 
 Racial conflict fractured and hollowed out this hometown.  The decade of the 60’s was riven by protests for racial equality, and the angered erupted on Main Streets across the country, or on a larger scale, as in Watts.  Recall the musical “West Side Story” and the brawls between Puerto Ricans and New York City locals or the atrocities when India was partitioned in 1947 and hundreds of thousands of Hindus or Muslims died.   Mistrust, segregation, exclusion, malignment, lynchings – all the ugliness of racial or religious prejudice destroys lives, property, and community.   
@@ -76,7 +76,7 @@ To those with conservative views, the array of protests alarmed them and threate
 
 The higher cost of labor in the town’s manufacturing plant, which perhaps offered the most and best blue-collar jobs in the area, doomed its workers to unemployment.   Or new technology and machinery elsewhere might have supplanted the blue-collar workers of the plant.  When laid off workers have no training available or other jobs that match their experience, their families and town spiral down economically.  From the ruin of the Dust Bowl to stilled steel mills to mortgage foreclosures of the crash in 2008, upheavals in markets or demand can destroy lives.
 
-![Springsteen My Hometown](   )
+![Springsteen My Hometown](/media/DestructionHomeTown.png)
 
 **Foreseeability**: We tend to think of mass destruction as unavoidable, and that view holds true for the ravages of weather and geology running amok. Try stopping Mount St. Helens!  Even wars between nations or civil wars within them seem to escalate toward inevitable bloodbaths.  
 
@@ -87,6 +87,7 @@ The destruction wrought on the song’s hometown by economic and social changes,
 *Words were passed, then a shotgun blast*
 
 When thousands of Marines stormed ashore into the [bullets of a heavily-defended beach](ULR), awful destruction spreads far and wide.  When one person flips out and fires a gun, the injury or death to the targe may be individual, but it is still destruction.   When one furious spouse or partner hits another, it destroys the body, the soul, the heart.  When one delusional Timothy McVeigh detonates a mighty bomb in Oklahoma City, 19 babies and scores of others died.  The word destruction implies tangible objects being lost, but the harm may be psyches traumatized or lives lost.  Anger out of control can and too often does destroy objects and people.  
+
 
 
 Springsteen’s lament captures the unravelling of a small, typical town in America.  Its jobs oozed away to foreign competitors (or possibly non-union states in the South).  Its social fabric was torn by the anger of racial discrimination and a racially tainted, hated war in Vietnam.  Anger, resentment, and extremism can pus
