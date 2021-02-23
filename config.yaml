@@ -29,12 +29,12 @@ markup:
       unsafe: yes
 menu:
   primary:
-    - name: Posts
+    - name: Themes
       url: /posts/
-      weight: 1
+      weight: 2
     - name: About
       url: /about/
-      weight: 2
+      weight: 1
     - name: GitHub
       url: https://github.com/ReesMorrison/BlogThemes
       weight: 3
