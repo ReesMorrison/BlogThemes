@@ -1,5 +1,5 @@
 ---
-title: Destruction, a Wider Angle
+title: Destruction, Additional Subthemes
 author: Rees Morrison
 date: '2021-02-18'
 slug: []
@@ -7,7 +7,7 @@ categories:
   - Wide Angle
 tags: []
 meta_img: images/image.png
-description: Description for the page
+description: Destruction, damage, destroy and extra subthemes
 ---
 
 The four posts associated with the theme of destruction each suggest their own set of sub-themes:
