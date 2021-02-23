@@ -90,4 +90,4 @@ When thousands of Marines stormed ashore into the [bullets of a heavily-defended
 
 
 
-Springsteen’s lament captures the unravelling of a small, typical town in America.  Its jobs oozed away to foreign competitors (or possibly non-union states in the South).  Its social fabric was torn by the anger of racial discrimination and a racially tainted, hated war in Vietnam.  Anger, resentment, and extremism can pus
+Springsteen’s lament captures the unravelling of a small, typical town in America.  Its jobs oozed away to foreign competitors (or possibly non-union states in the South).  Its social fabric was torn by the anger of racial discrimination and a racially tainted, hated war in Vietnam.  Anger, resentment, and extremism can push individuals to destroy property, ruin lives, and kill people.
