@@ -19,7 +19,7 @@ meta_img: images/image.png
 description: An impressionist painting, Absinthe by Edgar Degas, suggests ideas about drinking alcoholic beverages
 ---
 
-At the focus spot of a well-known painting by Edgar Degas, "The Absinthe" ["L�  Absinthe"], sits a full glass of absinthe.  According  [to one summary](https://www.ngv.vic.gov.au/work-of-the-week-edgar-degas-in-a-cafe-the-absinthe-drinker-dans-un-cafe-labsinthe/), "Absinthe (also known as La Fée Verte or "the green fairy") was a green colored, highly alcoholic spirit. Poured over ice and served with water and a cube of sugar to soften the bitter taste, it was [thought to be] highly addictive and known to cause hallucinations."  In this early morning scene from a mid-19th century Parisian café [Note 1], the woman and her companion, despite their youthfulness in their lower 30', exude fatigue, emptiness and depression. 
+At the focus spot of a well-known painting by Edgar Degas, "The Absinthe" ["L?  Absinthe"], sits a full glass of absinthe.  According  [to one summary](https://www.ngv.vic.gov.au/work-of-the-week-edgar-degas-in-a-cafe-the-absinthe-drinker-dans-un-cafe-labsinthe/), "Absinthe (also known as La Fée Verte or "the green fairy") was a green colored, highly alcoholic spirit. Poured over ice and served with water and a cube of sugar to soften the bitter taste, it was [thought to be] highly addictive and known to cause hallucinations."  In this early morning scene from a mid-19th century Parisian café [Note 1], the woman and her companion, despite their youthfulness in their lower 30', exude fatigue, emptiness and depression. 
 
 ![Absinthe by Edgar Degas](/media/AlcoholAbsintheDegas.jpg){width=50%, height=20%}
 
@@ -50,6 +50,9 @@ A multitude of open questions perturb the viewer, along the lines of the cogniti
   The two people look exhausted but why don't they go home [like old Eben Flood?](https://themesfromart.com/blog/2021-01-24-alcohol-flood-frost/alcoholfloodindex/)
 
   What are the bizarre items in the front left  of the frame?
+
+
+For subthemes of alcohol that are not closely associated with this painting or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/).
 
 
 Degas' masterpiece centers on a glass of absinthe that is as full as the moment is empty.  He chose a dangerous liquor that was eventually made illegal, he surrounds it with palpable depression and visual effects that map to the effects of drinking too much.

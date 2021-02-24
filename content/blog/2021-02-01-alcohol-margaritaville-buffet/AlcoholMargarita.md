@@ -107,6 +107,8 @@ Sadly, many people who can’t cope with the vicissitudes of life pour their way
 
 In the final stanza, the seventh, he penetrates the fog of margaritas and comes to the truth: it’s my own damn fault.  Did he lose his wife or girlfriend from drinking too much?  Personal accountability for drinking is part of the realization.  He realizes that his inability to stop drinking demonstrates yet another self-inflicted mistake. 
 
+For subthemes of alcohol that are not closely associated with this song or the other three genre of art, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/).
+
 Why he has sunk to this forlorn state we never learn, but the constant theme is drinking alcohol.  He drinks to forget, to cope with being overwhelmed emotionally, or because he is an alcoholic and doesn’t want withdrawal pains. Alcoholics are addicted to their drug.
 
 

@@ -107,6 +107,8 @@ The emotion the final stanza invokes – weary, last word, song done -- the pass
 
 Old Eben Flood filled with regret as he considered another quaff, perhaps because too little was left – his pleasure was gone – or perhaps because the pangs of a former, happier life struck, or perhaps because he knows that that jug could be empty but hard-scrabble life would plod on.
 
+For subthemes of alcohol that are not closely associated with this poem, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-02-03-alcohol-wide-view/).
+
 
 In this foray into the sociology, physiology, and psychology of drinking alcohol, the poem delves into the guilty pleasure that elicits concerns about being criticized by non-drinkers, the bonhomie of raising a glass to and with others, the disinhibition of song that often mixes with drink, and the pleasure while the glow lasts.  Toward the end of his lonely life, Eben Flood finds solace and escape in the jug, but reality takes over at the end.
 
