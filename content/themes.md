@@ -25,3 +25,11 @@ title: Themes Written About In This Project
 ["Saving Private Ryan"](https://themesfromart.com/blog/2021-02-18-destruction-saving-private-ryan-a-movie-by-steven-spielberg/destructionsaving/)  
 ["Ozymandias"](https://themesfromart.com/blog/2021-02-18-destruction-ozymandias-a-poem-by-percy-bysshe-shelley/destructoz/)  
 [Additional Subthemes](https://themesfromart.com/blog/2021-02-10-decisions-a-wider-angle-view/decisionswiderangle/)  
+
+**Work**
+["Stopping by Woods on a Snowy Evening"](https://themesfromart.com/blog/2021-02-26-worksnowy/worksnowy/)
+["The Floor Scrapers"](https://themesfromart.com/blog/2021-02-26-workscrapers/workscrapers/)
+["Proud Mary"](https://themesfromart.com/blog/2021-02-26-workproud/workproud/)
+["Citizen Kane"](https://themesfromart.com/blog/2021-02-26-workkane/workkane/)
+[Additional Subthemes](https://themesfromart.com/blog/2021-02-26-workadditional/workperspective/)
+
