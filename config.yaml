@@ -41,13 +41,13 @@ menu:
     - name: Twitter
       url: https://twitter.com/@ReesMorrison
       weight: 4
-    - name: Subscribe
-      url: /index.xml
-      weight: 5
+    # - name: Subscribe
+    #   url: /index.xml
+    #   weight: 5
 
 taxonomies:
     category: categories
     
 # disqusShortname:
 
-# googleAnalytics: G-47YEDDNJBK
+googleAnalytics: G-47YEDDNJBK
