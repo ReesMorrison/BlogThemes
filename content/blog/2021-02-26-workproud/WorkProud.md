@@ -46,7 +46,9 @@ Rollin', rollin', rollin' on the river
 Rollin', rollin', rollin' on the river  
 
 
-A song of escape from work, “Proud Mary” by Creedence Clearwater Revival sketches the oppression of someone trapped in long-hour or dead-end jobs who finds escape on a riverboat and the communal river ethos.   With just a few lyrics, [the song](https://www.youtube.com/watch?v=5hid10EgMXE) tells of one man’s flight from capitalism and jobs that ground down his spirit.  
+A song of escape from work, “Proud Mary” by Creedence Clearwater Revival sketches the oppression of someone trapped in long-hour or dead-end jobs who finds escape on a riverboat and the communal river ethos.   With just a few lyrics, [the song](https://www.youtube.com/watch?v=5hid10EgMXE) tells of one man’s flight from capitalism and jobs that ground down his spirit.
+
+![album cover](/media/WorkProudMary.png)
 
 **Bosses**: 
 
