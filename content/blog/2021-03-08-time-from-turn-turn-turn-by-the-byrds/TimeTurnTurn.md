@@ -25,7 +25,7 @@ A time of love, and a time of hate; a time of war, and a time of peace.
 
 With lyrics based on the King James Version of Ecclesiastes (3:1-8), this hit song comprehends many aspects of time.  Here is a [1965 rendition by the Byrds](https://www.youtube.com/watch?v=eiprqeaydik). You will adore the two little kids!
 
-![seasons picture](/media/TimeTurnSeasons.jpg)
+![seasons picture](/media/TimeTurnSeasons.jpg) 
 
 
 **Nature’s Cycles**:  This beautiful song touches the rhythms of life.  Something like “all things in moderation”, it suggests “all deeds at their appropriate moment.”  The harmony and justice of opportune times to act and not to act has deep appeal.  We are dealing here not with what a clock ordains, but rather with the pacing of what human intercourse can sensitively sustain.  The lyrics make concrete the appropriateness of context and judgment more so than the passage of time, plans laid by people, or anything to do with quantity.  Whether two hours has elapsed matters not at all to whether it may be *A time to weep, and a time to laugh*.  Further, it sings to the rightness of acting when the time is right: *A time to embrace, and a time to refrain from embracing;*  When the crucial moment arrives, you don’t get to turn off the alarm and [try a second or third shot](https://themesfromart.com/blog/2021-03-08-time-from-groundhog-day-starring-bill-murray/timegroundhog/).  Of course, the trick is deciding when is *A time to cast away stones, and a time to gather stones together*.  It’s often far from clear.
