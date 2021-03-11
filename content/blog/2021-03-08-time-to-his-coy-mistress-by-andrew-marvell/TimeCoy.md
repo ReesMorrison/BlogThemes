@@ -63,7 +63,7 @@ Stand still, yet we will make him run.
 
 Marvell’s poem addresses time from two standpoints:  if endless amounts of time were available, languorous courtship and flirting could extend for ages, but we’re not getting any younger and while we are in blooming youth is the best time to indulge our sexual passions.  We can draw out those subthemes from the poem along with others about time.
 
-![](/media/TimeCoy.jpg){width=250px} 
+![](/media/TimeCoy.jpg)
 
 
 **Ample Time Suggests Leisure**:  Most people feel that they do not have enough time to accomplish what they need to get done nor to relish what they enjoy.  The leisurely admiration of his mistress’ various attributes in the first stanza stands for the luxury of being able to draw slowly and richly as much pleasure as possible from the fullness of activity.
@@ -82,9 +82,9 @@ To admire a decorated Grecian urn for hours spends time extravagantly, a promisc
 *For, lady, you deserve this state,   *  
 *Nor would I love at lower rate.*   
 
-No *lower rate* would produce the quality of adoration her beauty deserved.  To be able to devote hours to practicing a speech, days to drafting legislation, months to rehearsing a musical, or years to completing a book may be the expected investment that produces an excellent result.  Quality of work often can be [measured by a ticking clock](Bellelli) but focus, capability and inspiration play their crucial parts in how fruitfully the time was spent.  Still, the careful and plentiful investment of time, rather than to *love at lower rate*, often leads to quality.
+No *lower rate* would produce the quality of adoration her beauty deserved.  To be able to devote hours to practicing a speech, days to drafting legislation, months to rehearsing a musical, or years to completing a book may be the expected investment that produces an excellent result.  Quality of work often can be [measured by a ticking clock](https://themesfromart.com/blog/2021-03-08-time-from-the-bellili-family-by-edgar-degas/timebellili/) but focus, capability and inspiration play their crucial parts in how fruitfully the time was spent.  Still, the careful and plentiful investment of time, rather than to *love at lower rate*, often leads to quality.
 
-**Carpe Diem**:   Squeeze everything you can out of today and to heck with tomorrow – that’s the cry of carpe diem.   Coming from Book 1 of the Roman poet Horace's “Odes’, it’s a “throw caution to the winds and blow it all now” philosophy life.  Hedonism, yes!  Rather than plan at length, ponder and equivocate, wait passively for the [right season](Turn Turn),  the poem’s beseeching man urges his reluctant mistress to “Just do it!”
+**Carpe Diem**:   Squeeze everything you can out of today and to heck with tomorrow – that’s the cry of carpe diem.   Coming from Book 1 of the Roman poet Horace's “Odes’, it’s a “throw caution to the winds and blow it all now” philosophy life.  Hedonism, yes!  Rather than plan at length, ponder and equivocate, wait passively for the [right season](https://themesfromart.com/blog/2021-03-08-time-from-turn-turn-turn-by-the-byrds/timeturnturn/),  the poem’s beseeching man urges his reluctant mistress to “Just do it!”
 
 *Now let us sport us while we may,*  
 *And now, like amorous birds of prey,*   
@@ -110,12 +110,12 @@ The winged-Mercury chariot never falters, even for a second, and the courting lo
 *Rather at once our time devour  *  
 *Than languish in his slow-chapped power.*   
 
-According to the Norton Anthology of English Literature, "slow-chapped power" means "slowly devouring jaws."  In short, the poem’s hero feels like he's dying as Time slowly eats him.  We can’t go back and [re-create time[(GroundHog) nor save it in a jar, we can only make the best use of it right now by our present lights.  Life stretches away infinitely for the young; is measured and cherished by the middle-aged, and speeds all too quickly to the end when we are old.  The poem juxtaposes sensual passion with death’s scythe:
+According to the Norton Anthology of English Literature, "slow-chapped power" means "slowly devouring jaws."  In short, the poem’s hero feels like he's dying as Time slowly eats him.  We can’t go back and [re-create time](https://themesfromart.com/blog/2021-03-08-time-from-groundhog-day-starring-bill-murray/timegroundhog/) nor save it in a jar, we can only make the best use of it right now by our present lights.  Life stretches away infinitely for the young; is measured and cherished by the middle-aged, and speeds all too quickly to the end when we are old.  The poem juxtaposes sensual passion with death’s scythe:
 
 *The grave’s a fine and private place,  *   
 *But none, I think, do there embrace.*
 
-To read about subthemes of time that are not closely associated with this poem or the other three creative works, please visit [Additional Subthemes](  ).
+To read about subthemes of time that are not closely associated with this poem or the other three creative works, please visit [Additional Subthemes](https://themesfromart.com/blog/2021-03-09-time-additional/timeadditional/).
 
 
 Marvell’s passionate romancer fulminates against his mistress’ refusals and pace; acutely aware of the degradations of time and the inevitable loss of physical delight; he is aroused and wants to make love right now without all this extended foreplay.  Every minute not seized means pleasure delayed, diminished or possibly lost.  Time is of the essence.  
