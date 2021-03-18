@@ -23,7 +23,7 @@ A time to gain that which is to get, and a time to lose; a time to keep, and a t
 A time to rend, and a time to sew; a time to keep silence, and a time to speak;  
 A time of love, and a time of hate; a time of war, and a time of peace.  
 
-With lyrics based on the King James Version of Ecclesiastes (3:1-8), this hit song comprehends many aspects of time.  Here is a [1965 rendition by the Byrds](https://www.youtube.com/watch?v=eiprqeaydik). You will adore the two little kids!
+With lyrics based on the King James Version of Ecclesiastes (3:1-8), this hit song comprehends many aspects of time.  Here is a YouTube video of a [1965 rendition by the Byrds](https://www.youtube.com/watch?v=eiprqeaydik). You will adore the two little kids!
 
 ![seasons picture](/media/TimeTurnSeasons.jpg) 
 
