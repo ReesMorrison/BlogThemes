@@ -1,5 +1,5 @@
 ---
-title: ChanceWinner
+title: Chance, "The Winner Takes It All" by ABBA
 author: Rees Morrison
 date: '2021-03-14'
 slug: []
@@ -10,7 +10,7 @@ meta_img: images/image.png
 description: Description for the page
 ---
 
-“The Winner Takes It All” by Abba
+“The Winner Takes It All” by ABBA
 
 I don't wanna talk  
 About things we've gone through  
