@@ -93,7 +93,7 @@ The sadness, loss and resignation a shattering divorce triggers makes “The Win
 
 ![ChanceWinner](ChanceWinner.jpg)
 
-**Bad Things Happens**:  Often for deeply complex or inexplicable reasons, disasters, death, failure and divorce strike.  Why the tragedy descends may  be due to the confluence of coincidence and randomness.  The tree fell just as the car passed, the lungs couldn’t expel the asbestos slivers, the dam gave way after 65 years, the [enemy captured the soldiers](Deer) or the physical abuse worsened abruptly.  
+**Bad Things Happens**:  Often for deeply complex or inexplicable reasons, disasters, death, failure and divorce strike.  Why the tragedy descends may  be due to the confluence of coincidence and randomness.  The tree fell just as the car passed, the lungs couldn’t expel the asbestos slivers, the dam gave way after 65 years, the [enemy captured the soldiers](https://themesfromart.com/blog/2021-03-14-chancedeerhunter/chancedeer/) or the physical abuse worsened abruptly.  
 
 *The gods may throw a dice*  
 *Their minds as cold as ice*  
@@ -107,10 +107,10 @@ To the grieving survivors, implacable monsters picked the short straw for them, 
 *I figured it made sense*  
 *Building me a fence*
 
-The singer believed she had arranged her life, but the concatenation of events big and small that snuffed out the marriage was chance upending her.  At times she might have prayed or [sought guidance from a minister](Quai) but the unknowable future prevailed.  Chance was decreed as certainty.
+The singer believed she had arranged her life, but the concatenation of events big and small that snuffed out the marriage was chance upending her.  At times she might have prayed or [sought guidance from a minister](https://themesfromart.com/blog/2021-03-14-chancechurch/chancechurch/) but the unknowable future prevailed.  Chance was decreed as certainty.
 
 
-**Physical or Person**:  The lyrics of this song speak to the lightning bolt of traumatic divorce loosed by a spouse.  The husband insisted on divorce and shattered not only a marriage but a life dream.  We read about the drunken driver smashing another car or a kid playing with a loaded gun, both of which we might consider a person-instigated chance.  By contrast, an avalanche triggers without a human being anywhere near or a roof gives way when too much snow accumulates, and neither has anything to do with a person.  Nature’s random forces that display a rainbow or hive off the glacier are impersonal.  They flash [*Crass Casualty*](Hap).  At least if the chance meeting at a bar leads somewhere, you can believe clues and signals were available  -- chance events that involve a person feel less inscrutable than Nature’s surprises.
+**Physical or Person**:  The lyrics of this song speak to the lightning bolt of traumatic divorce loosed by a spouse.  The husband insisted on divorce and shattered not only a marriage but a life dream.  We read about the drunken driver smashing another car or a kid playing with a loaded gun, both of which we might consider a person-instigated chance.  By contrast, an avalanche triggers without a human being anywhere near or a roof gives way when too much snow accumulates, and neither has anything to do with a person.  Nature’s random forces that display a rainbow or hive off the glacier are impersonal.  They flash [*Crass Casualty*](https://themesfromart.com/blog/2021-03-14-chancehap/chancehap/).  At least if the chance meeting at a bar leads somewhere, you can believe clues and signals were available  -- chance events that involve a person feel less inscrutable than Nature’s surprises.
 
 Chance: sub-themes from a well-known rock song, impressionist painting, poem, and movie.  Enjoy my [post on additional subthemes](   http://bit.ly/30qi0tc)
 More on my Themes from Art project is [at this article](http://bit.ly/3sRXopI).
