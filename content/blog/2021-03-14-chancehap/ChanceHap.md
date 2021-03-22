@@ -3,7 +3,7 @@ title: Chance, from "Hap" by Thomas Hardy
 author: Rees Morrison
 date: '2021-03-14'
 slug: []
-categories:
+categories: 
   - Poem
 tags: []
 meta_img: images/image.png
