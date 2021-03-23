@@ -1,5 +1,5 @@
 ---
-title: Chance, from "Hap" by Thomas Hardy
+title: Chance, from "Hap," a poem by Thomas Hardy
 author: Rees Morrison
 date: '2021-03-14'
 slug: []

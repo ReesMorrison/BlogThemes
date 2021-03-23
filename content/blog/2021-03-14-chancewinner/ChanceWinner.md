@@ -1,5 +1,5 @@
 ---
-title: Chance, "The Winner Takes It All" by ABBA 
+title: Chance, from "The Winner Takes It All," a song by ABBA 
 author: Rees Morrison
 date: '2021-03-14'
 slug: []

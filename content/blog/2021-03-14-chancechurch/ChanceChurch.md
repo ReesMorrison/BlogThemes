@@ -1,5 +1,5 @@
 ---
-title: Chance, from "“The Quai Saint-Michel and Notre-Dame” by Luce Maximilien
+title: Chance, from "“The Quai Saint-Michel and Notre-Dame,” a painting by Luce Maximilien
 author: Rees Morrison
 date: '2021-03-14'
 slug: []
