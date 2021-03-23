@@ -91,7 +91,7 @@ Source: Musixmatch
 
 The sadness, loss and resignation a shattering divorce triggers makes “The Winner Takes It All” heartrending.   The marital collapse eroded over time, perhaps, or erupted suddenly, but the dice thrown by impersonal forces landed the wrong way and the life of a wife came asunder.  Chance shows up throughout this [Abba hit](https://www.youtube.com/watch?v=92cwKCU8Z5c).
 
-![ChanceWinner](ChanceWinner.jpg)
+![ChanceWinner](/media/ChanceWinner.jpg)
 
 **Bad Things Happens**:  Often for deeply complex or inexplicable reasons, disasters, death, failure and divorce strike.  Why the tragedy descends may  be due to the confluence of coincidence and randomness.  The tree fell just as the car passed, the lungs couldn’t expel the asbestos slivers, the dam gave way after 65 years, the [enemy captured the soldiers](https://themesfromart.com/blog/2021-03-14-chancedeerhunter/chancedeer/) or the physical abuse worsened abruptly.  
 
@@ -100,7 +100,7 @@ The sadness, loss and resignation a shattering divorce triggers makes “The Win
 *And someone way down here*  
 *Loses someone dear*  
 
-To the grieving survivors, implacable monsters picked the short straw for them, so the pain from the lost Malaysian jetliner, the bomb at the Boston Marathon, or the virus costs *someone dear*.  Chance bares its fangs as impersonal forces such as [economics and race](Springsteen), a [sadistic guard at a concentration camp](Sophies), or perhaps family history for star-crossed lovers.
+To the grieving survivors, implacable monsters picked the short straw for them, so the pain from the lost Malaysian jetliner, the bomb at the Boston Marathon, or the virus costs *someone dear*.  Chance bares its fangs as impersonal forces such as [economics and race](https://themesfromart.com/blog/2021-02-18-destruction-from-my-hometown-a-rock-ballad-by-bruce-springsteen/destructhometown/), a [sadistic guard at a concentration camp](https://themesfromart.com/blog/2021-02-08-decisions-sophie-s-choice-with-meryl-streep/decisionssophies/), or perhaps family history for star-crossed lovers.
 
 **Unknown Future**:  Any time we invoke the term “chance” we are referring to the future, and the future cannot be predicted with certainty.   We may have heard that many marriages end with divorce, but when the wedding bells ring, that is a future neither the bride nor the groom anticipate or even want to think about – that’s an unknowable, possible future chance but far from the one they dream about:
 
@@ -112,7 +112,8 @@ The singer believed she had arranged her life, but the concatenation of events b
 
 **Physical or Person**:  The lyrics of this song speak to the lightning bolt of traumatic divorce loosed by a spouse.  The husband insisted on divorce and shattered not only a marriage but a life dream.  We read about the drunken driver smashing another car or a kid playing with a loaded gun, both of which we might consider a person-instigated chance.  By contrast, an avalanche triggers without a human being anywhere near or a roof gives way when too much snow accumulates, and neither has anything to do with a person.  Nature’s random forces that display a rainbow or hive off the glacier are impersonal.  They flash [*Crass Casualty*](https://themesfromart.com/blog/2021-03-14-chancehap/chancehap/).  At least if the chance meeting at a bar leads somewhere, you can believe clues and signals were available  -- chance events that involve a person feel less inscrutable than Nature’s surprises.
 
-Chance: sub-themes from a well-known rock song, impressionist painting, poem, and movie.  Enjoy my [post on additional subthemes](   http://bit.ly/30qi0tc)
-More on my Themes from Art project is [at this article](http://bit.ly/3sRXopI).
+
+For more sub-themes that are not derived directly from the poem, rock song, painting, and movie covered individually in posts about Chance, enjoy these [additional subthemes](https://themesfromart.com/blog/2021-03-14-chanceadditional/chanceaddl/).
+
 
 Forces and decisions beyond the control of the singer upended her happy life.  She can’t figure out what happened to her marriage, so it feels like cruel gods randomly dealt her a divorce card.  The opposite of serendipity, the hurt from this song follows the sharp pangs of destructive chance.

@@ -27,7 +27,7 @@ Even more extremely, sports lurk chance in the background to inject the thrill e
 
 
 
-[Additional  sub-themes](  )  from a well-known movie, rock song, impressionist painting, and poem.  For background on my [Themes from Art project](http://bit.ly/3sRXopI).
+For more sub-themes that are not derived directly from the poem, rock song, painting, and movie covered individually in posts about Chance, enjoy these [additional subthemes](https://themesfromart.com/blog/2021-03-14-chanceadditional/chanceaddl/).
 
 
 Both men took an enormous chance, the risk of blowing their brains out, in a desperate hope.  They had to suppress raging fear as they gambled with bullets, all of which triggers a gripping cinematic thrill. 
