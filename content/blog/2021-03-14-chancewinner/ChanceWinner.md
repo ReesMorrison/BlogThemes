@@ -93,7 +93,7 @@ The sadness, loss and resignation a shattering divorce triggers makes “The Win
 
 ![ChanceWinner](/media/ChanceWinner.jpg)
 
-**Bad Things Happens**:  Often for deeply complex or inexplicable reasons, disasters, death, failure and divorce strike.  Why the tragedy descends may  be due to the confluence of coincidence and randomness.  The tree fell just as the car passed, the lungs couldn’t expel the asbestos slivers, the dam gave way after 65 years, the [enemy captured the soldiers](https://themesfromart.com/blog/2021-03-14-chancedeerhunter/chancedeer/) or the physical abuse worsened abruptly.  
+**Bad Things Happen**:  Often for deeply complex or inexplicable reasons, disasters, death, failure and divorce strike.  Why the tragedy descends may  be due to the confluence of coincidence and randomness.  The tree fell just as the car passed, the lungs couldn’t expel the asbestos slivers, the dam gave way after 65 years, the [enemy captured the soldiers](https://themesfromart.com/blog/2021-03-14-chancedeerhunter/chancedeer/) or the physical abuse worsened abruptly.  
 
 *The gods may throw a dice*  
 *Their minds as cold as ice*  
